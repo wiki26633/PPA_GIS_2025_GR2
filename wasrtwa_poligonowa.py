@@ -4,7 +4,7 @@ import arcpy
 # =============================================================================
 # KONFIGURACJA DANYCH WEJŚCIOWYCH
 # =============================================================================
-arcpy.env.workspace = r"D:\GIS\Rok_2025_26\PPA_ArcGIS\PPA_Gr2.gdb"
+arcpy.env.workspace = r"C:\Users\wiki2\Documents\PP_aplikacjeGIS\Mój_projekt\Mój_projekt.gdb"
 warstwa_poligonowa = "Budynek"
 
 # =============================================================================
